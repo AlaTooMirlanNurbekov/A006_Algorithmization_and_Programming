@@ -6,8 +6,8 @@
 
     BRUTE FORCE IDEA:
     We repeatedly divide N by 10 untiil it becomes 0, each division removes one digit, so the number of steps is the answer
-    WHAT THIS PROGRAM PRINTS:
-    For each test number, it prints: N -> digitCount
+    
+    WHAT THIS PROGRAM PRINTS: For each test number, it prints: N -> digitCount
 */
 
 public class P000_E01 {
