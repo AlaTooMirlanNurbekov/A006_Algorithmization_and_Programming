@@ -12,7 +12,7 @@
 */
 
 public class P000_E10 {
-
+    
     static int greatestDivisorBelowN(int n) {
         if (n <= 1) return 0;
         for (int d = n - 1; d >= 1; d--) {
@@ -20,7 +20,7 @@ public class P000_E10 {
         }
         return 0;
     }
-
+    
     public static void main(String[] args) {
         int[] tests = {2, 6, 10, 15, 13, 36};
         for (int n : tests) {
@@ -28,6 +28,5 @@ public class P000_E10 {
         }
     }
 }
-
 
 // Made by JetiHub - J000
