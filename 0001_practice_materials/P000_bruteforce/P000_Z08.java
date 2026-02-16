@@ -1,5 +1,5 @@
 /*
-    P000_H08 - SET COVER MINIMUM SETS
+    P000_Z08 - SET COVER MINIMUM SETS
 
     TASK: You have a universe of elements 0..U-1
     You also have M sets, each set covers some elements
@@ -17,7 +17,7 @@
     Minimum number of sets or -1
 */
 
-public class P000_H08 {
+public class P000_Z08 {
 
     static int minSetCover(int U, int[] sets) {
         int M = sets.length;
@@ -58,6 +58,7 @@ public class P000_H08 {
         System.out.println(minSetCover(U, sets2));
     }
 }
+
 
 
 // Made by JetiHub - J000
