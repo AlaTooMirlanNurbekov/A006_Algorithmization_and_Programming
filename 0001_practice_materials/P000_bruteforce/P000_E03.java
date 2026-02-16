@@ -9,8 +9,7 @@
     Read digits from right to left (N % 10)
     and build a new number by shifting previous digits (rev * 10 + digit)
 
-    WHAT THIS PROGRAM PRINTS:
-    For each test number it prints: N -> reversed
+    WHAT THIS PROGRAM PRINTS: For each test number it prints: N -> reversed
 */
 public class P000_E03 {
 
