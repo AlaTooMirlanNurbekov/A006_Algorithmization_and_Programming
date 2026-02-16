@@ -6,11 +6,10 @@
 
     BRUTE FORCE IDEA:
     For every number x in the range:
-    - check if x is prime using trial division
-    - count the primes
+        - check if x is prime using trial division
+        - count the primes
 
-    WHAT THIS PROGRAM PRINTS:
-    For each test (L, R), it prints: L..R -> primeCount
+    WHAT THIS PROGRAM PRINTS:for each test (L, R), it prints: L..R -> primeCount
 */
 
 public class P000_E09 {
@@ -21,10 +20,8 @@ public class P000_E09 {
         for (int d = 2; d <= n - 1; d++) {
             if (n % d == 0) return false;
         }
-
         return true;
     }
-
     static int countPrimesInRange(int L, int R) {
         int count = 0;
 
@@ -34,7 +31,6 @@ public class P000_E09 {
 
         return count;
     }
-
     public static void main(String[] args) {
         int[] Ls = {1, 10, -5};
         int[] Rs = {10, 30, 10};
