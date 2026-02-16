@@ -1,5 +1,5 @@
 /*
-    P000_H06 - HAMILTONIAN CYCLE EXISTS
+    P000_Z06 - HAMILTONIAN CYCLE EXISTS
 
     TASK: given an undirected graph with N nodes (N small),
     check if there exists a Hamiltonian cycle.
@@ -15,7 +15,7 @@
     OUTPUT: for each test graph, it prints true or false.
 */
 
-public class P000_H06 {
+public class P000_Z06 {
 
     static boolean found;
 
@@ -76,6 +76,7 @@ public class P000_H06 {
         System.out.println(hamiltonianCycleExists(g2));
     }
 }
+
 
 
 // Made by JetiHub - J000
