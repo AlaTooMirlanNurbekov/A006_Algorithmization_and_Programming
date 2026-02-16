@@ -1,17 +1,15 @@
 /*
     P000_E05 -COUNT DIGIT OCCURRENCES (BRUTE FORCE SCAN)
 
-    TASK:Given an integer N and a digit D (0..9), count how many times D appears in N
+    TASK: Given an integer N and a digit D (0..9), count how many times D appears in N
 
     Example: N = 707070, D = 7 -> 3
 
     BRUTE FORCE IDEA : Scan digits one by one using % 10, and count matches
-
     WHAT THIS PROGRAM PRINTS: For each test (N, D) it prints: N, D -> count
 */
 
 public class P000_E05 {
-
     static int countDigit(int n, int d) {
         n = Math.abs(n);
         if (n == 0) return d == 0 ? 1 : 0;
