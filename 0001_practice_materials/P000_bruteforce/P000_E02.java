@@ -1,17 +1,15 @@
 /*
     P000_E02 - SUM OF DIGITS (BRUTE FORCE SCAN)
 
-    TASK:
-    Given an integer N compute the sum of its digits
+    TASK: Given an integer N compute the sum of its digits
 
     BRUTE FORCE IDEA:
-    Peel digits one by one using:
-    digit = N % 10
-    N = N / 10
-    Add each digit to the sum
+        Peel digits one by one using:
+            digit = N % 10
+            N = N / 10
+        Add each digit to the sum
 
-    WHAT THIS PROGRAM PRINTS:
-    For each test number it prints: N -> digitSum
+    WHAT THIS PROGRAM PRINTS: for each test number it prints: N -> digitSum
 */
 
 public class P000_E02 {
@@ -33,6 +31,5 @@ public class P000_E02 {
         }
     }
 }
-
 
 // Made by JetiHub - J000
