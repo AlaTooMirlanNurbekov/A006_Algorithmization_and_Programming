@@ -1,5 +1,5 @@
 /*
-    P000_H10 - GRAPH 3 COLORING EXISTS
+    P000_Z10 - GRAPH 3 COLORING EXISTS
 
     TASK: given an undirected graph with N nodes (N small),
     check if it can be colored using 3 colors so that
@@ -12,7 +12,7 @@
     OUTPUT: true or false for each test graph.
 */
 
-public class P000_H10 {
+public class P000_Z10 {
 
     static boolean[][] g;
     static int[] color;
@@ -65,5 +65,6 @@ public class P000_H10 {
         System.out.println(threeColoringExists(g2));
     }
 }
+
 
 // Made by JetiHub - J000
