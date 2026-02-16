@@ -1,5 +1,5 @@
 /*
-    P000_H05 - MAGIC SQUARE 3x3
+    P000_Z05 - MAGIC SQUARE 3x3
 
     TASK: place numbers 1..9 into a 3x3 grid so that every row, column, and diagonal sums to 15
     Print one valid square
@@ -11,7 +11,7 @@
     OUTPUT: One 3x3 magic square
 */
 
-public class P000_H05 {
+public class P000_Z05 {
 
     static boolean isMagic(int[] p) {
         return p[0] + p[1] + p[2] == 15 &&
@@ -53,6 +53,7 @@ public class P000_H05 {
         solve(a, 0);
     }
 }
+
 
 
 // Made by JetiHub - J000
