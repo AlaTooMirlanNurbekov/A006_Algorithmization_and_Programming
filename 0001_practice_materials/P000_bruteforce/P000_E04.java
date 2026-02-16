@@ -4,15 +4,13 @@
     TASK:
     Given an integer N check if it reads the same forward and backward
     Examples:
-    121 -> true
-    123 -> false
-    -121 -> false (we treat negative as not palindrome)
+        121 -> true
+        123 -> false
+        -121 -> false (we treat negative as not palindrome)
 
-    BRUTE FORCE IDEA:
-    reverse the number and compare it to the original
+    BRUTE FORCE IDEA: reverse the number and compare it to the original
 
-    WHAT THIS PROGRAM PRINTS:
-    For each test number it prints: N -> true/false
+    WHAT THIS PROGRAM PRINTS: For each test number it prints: N -> true/false
 */
 
 public class P000_E04 {
