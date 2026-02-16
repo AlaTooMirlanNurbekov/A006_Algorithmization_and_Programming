@@ -1,5 +1,5 @@
 /*
-    P000_H04 - 4x4 LATIN SQUARE
+    P000_Z04 - 4x4 LATIN SQUARE
 
     TASK: fill a 4x4 grid with numbers 1..4
     Each row must contain 1..4 exactly once
@@ -14,7 +14,7 @@
     WHAT THIS PROGRAM PRINTS: one valid 4x4 Latin square
 */
 
-public class P000_H04 {
+public class P000_Z04 {
 
     static int[][] grid = new int[4][4];
     static boolean ok(int r, int c, int val) {
@@ -53,6 +53,7 @@ public class P000_H04 {
         print();
     }
 }
+
 
 
 // Made by JetiHub - J000
