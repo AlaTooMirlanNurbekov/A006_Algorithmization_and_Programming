@@ -1,5 +1,5 @@
 /*
-    P000_H09 - MIN DOMINATING SET SIZE
+    P000_Z09 - MIN DOMINATING SET SIZE
 
     TASK: given an undirected graph with N nodes (N small),
     find the minimum size of a dominating set.
@@ -14,7 +14,7 @@
     OUTPUT: minimum dominating set size.
 */
 
-public class P000_H09 {
+public class P000_Z09 {
 
     static boolean dominates(boolean[][] g, int mask) {
         int n = g.length;
@@ -71,6 +71,7 @@ public class P000_H09 {
         System.out.println(minDominatingSetSize(g2));
     }
 }
+
 
 
 // Made by JetiHub - J000
