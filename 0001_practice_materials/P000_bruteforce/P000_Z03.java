@@ -1,5 +1,5 @@
 /*
-    P000_H03 - 8 QUEENS
+    P000_Z03 - 8 QUEENS
 
     TASK: Place 8 queens on a chessboard so that no two queens attack each other
     Print one valid board
@@ -12,7 +12,7 @@
     WHAT THIS PROGRAM PRINTS: A board using Q and 
 */
 
-public class P000_H03 {
+public class P000_Z03 {
 
     static int[] col = new int[8];
     static boolean safe(int row, int c) {
@@ -49,6 +49,7 @@ public class P000_H03 {
         print();
     }
 }
+
 
 
 // Made by JetiHub - J000
