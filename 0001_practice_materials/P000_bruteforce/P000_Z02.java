@@ -1,5 +1,5 @@
 /*
-    P000_H02 - 4x4 SUDOKU SOLVER
+    P000_Z02 - 4x4 SUDOKU SOLVER
 
     TASK: Solve a 4x4 Sudoku
     Numbers are 1..4
@@ -14,7 +14,7 @@
     RESULT: One solved grid
 */
 
-public class P000_H02 {
+public class P000_Z02 {
     static int[][] grid = {
             {1, 0, 0, 4},
             {0, 0, 1, 0},
@@ -68,6 +68,7 @@ public class P000_H02 {
         print();
     }
 }
+
 
 
 // Made by JetiHub - J000
