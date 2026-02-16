@@ -2,8 +2,7 @@
     P000_E06 - COUNT DIVISORS (BRUTE FORCE CHECK)
 
     TASK:
-    Given an integer N (N > 0), count how many divisors it has
-    A divisor is a number d such that N % d == 0
+    Given an integer N (N > 0) count how many divisors it has. A divisor is a number d such that N % d == 0
 
     BRUTE FORCE IDEA: Try every d from 1 to N and count the ones that divide N
 
