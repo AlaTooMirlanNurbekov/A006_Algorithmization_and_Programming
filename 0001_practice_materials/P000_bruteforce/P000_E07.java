@@ -4,9 +4,7 @@
     TASK:
     Given an integer N (N > 0) print all divisors of N in increasing order
 
-    BRUTE FORCE IDEA:
-    Try every d from 1 to N
-    If N % d == 0, then d is a divisor
+    BRUTE FORCE IDEA: Try every d from 1 to N. If N % d == 0, then d is a divisor
 
     WHAT THIS PROGRAM PRINTS: For each test number, it prints: N -> [divisors...]
 */
