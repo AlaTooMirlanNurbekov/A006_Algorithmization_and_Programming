@@ -1,5 +1,5 @@
 /*
-    P000_H01 - CRYPTARITHM SOLVER
+    P000_Z01 - CRYPTARITHM SOLVER
 
     TASK: solve the classic puzzle:
         SEND
@@ -17,7 +17,7 @@
     OUTPUT: One valid assignment and the numbers
 */
 
-public class P000_H01 {
+public class P000_Z01 {
 
     static boolean[] used = new boolean[10];
 
@@ -88,5 +88,6 @@ public class P000_H01 {
         solve();
     }
 }
+
 
 // Made by JetiHub - J000
