@@ -1,5 +1,5 @@
 /*
-    P000_H07 - GRAPH ISOMORPHISM
+    P000_Z07 - GRAPH ISOMORPHISM
 
     TASK: given two undirected graphs G1 and G2 with the same number of nodes N,
     check if they are isomorphic.
@@ -13,7 +13,7 @@
     EXPECTED OUTPUT: true or false for each test pair.
 */
 
-public class P000_H07 {
+public class P000_Z07 {
 
     static boolean found;
     static void permute(int[] p, int pos, boolean[][] g1, boolean[][] g2) {
@@ -76,6 +76,7 @@ public class P000_H07 {
         System.out.println(isIsomorphic(a2, b2));
     }
 }
+
 
 
 // Made by JetiHub - J000
