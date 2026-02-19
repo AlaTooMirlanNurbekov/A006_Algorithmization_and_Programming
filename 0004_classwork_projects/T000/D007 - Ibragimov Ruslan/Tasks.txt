@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the first non-space character of a line. If line is only spaces print EMPTY.
+Input: One line string
+Expected output: One character or EMPTY
+
+Task 1
+Scenario: You are given n names. Print them sorted by length ascending. If tie, alphabetical.
+Input: n, then n lines strings
+Expected output: Names in new order, one per line
+
+Task 2
+Scenario: You are given a string of digits. Insert * between two adjacent odd digits. Example 5731 becomes 573*1.
+Input: One string digits
+Expected output: Modified string

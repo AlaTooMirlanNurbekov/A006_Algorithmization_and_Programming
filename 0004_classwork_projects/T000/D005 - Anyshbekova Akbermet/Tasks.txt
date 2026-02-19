@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the sum of all integers from 1 to n.
+Input: One integer n
+Expected output: One integer sum
+
+Task 1
+Scenario: You are given a list. Print the number that appears the most. If tie, print the one that appears first in the list.
+Input: n, then n integers
+Expected output: One integer
+
+Task 2
+Scenario: Given n points on a line, find the largest distance between any two points.
+Input: n, then n integers (positions)
+Expected output: One integer max distanc

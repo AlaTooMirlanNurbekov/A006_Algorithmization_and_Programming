@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the number of words in a line. Words are separated by spaces, multiple spaces may exist.
+Input: One line string
+Expected output: One integer
+
+Task 1
+Scenario: Given n numbers, print the count of numbers in range [10, 99].
+Input: n, then n integers
+Expected output: One integer count
+
+Task 2
+Scenario: You are given a string of directions N,E,S,W starting at (0,0). Print the final coordinates x y.
+Input: One string
+Expected output: Two integers x y

@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the product of digits of an integer.
+Input: One integer n
+Expected output: Product of digits
+
+Task 1
+Scenario: Given n numbers, print how many are perfect squares.
+Input: n, then n integers
+Expected output: Count
+
+Task 2
+Scenario: You are given a list of integers and a target S. Print the number of pairs (i<j) with sum exactly S.
+Input: n S, then n integers
+Expected output: Number of pairs

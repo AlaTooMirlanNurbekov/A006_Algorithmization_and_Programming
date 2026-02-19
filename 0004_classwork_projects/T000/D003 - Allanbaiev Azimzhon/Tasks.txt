@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the count of even numbers between a and b inclusive.
+Input: Two integers a b
+Expected output: One integer
+
+Task 1
+Scenario: Given a list, print the first element that is greater than all elements before it. If none, print NONE.
+Input: n, then n integers
+Expected output: The element or NONE
+
+Task 2
+Scenario: You are given a string containing { and }. Print YES if it is valid, else NO.
+Input: One string
+Expected output: YES or NO

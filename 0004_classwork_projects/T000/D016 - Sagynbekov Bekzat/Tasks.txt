@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the smallest digit in a number.
+Input: One integer n
+Expected output: One digit
+
+Task 1
+Scenario: Given a string, print the most frequent character. If tie, print the smallest character by ASCII.
+Input: One string
+Expected output: One character
+
+Task 2
+Scenario: You are given n intervals [l, r]. Print the total covered length on a number line after merging overlaps.
+Input: n, then n lines l r
+Expected output: One integer covered length

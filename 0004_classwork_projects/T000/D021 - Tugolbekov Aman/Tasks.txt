@@ -1,0 +1,14 @@
+Task 0
+Scenario: Read two integers. Print YES if the first is divisible by the second, else NO.
+Input: a b
+Expected output: YES or NO
+
+Task 1
+Scenario: A class has n quiz scores. Remove the lowest score once and print the new average as a decimal.
+Input: n, then n integers
+Expected output: Average after dropping one minimum
+
+Task 2
+Scenario: You have a word and must check if it can become a palindrome by removing exactly one character. Print YES or NO.
+Input: One string
+Expected output: YES or NO

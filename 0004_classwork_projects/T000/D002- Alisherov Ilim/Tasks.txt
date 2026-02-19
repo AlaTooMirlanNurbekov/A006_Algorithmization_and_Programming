@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the number of characters in a line (including spaces).
+Input: One line string
+Expected output: One integer length
+
+Task 1
+Scenario: A robot moves on a line starting at 0. You get commands L and R. Each move changes position by 1. Print final position.
+Input: One string of characters L and R
+Expected output: Final integer position
+
+Task 2
+Scenario: You are given a password. It is strong if it has at least 8 chars, at least one digit, and at least one uppercase letter. Print STRONG or WEAK.
+Input: One line string
+Expected output: STRONG or WEAK

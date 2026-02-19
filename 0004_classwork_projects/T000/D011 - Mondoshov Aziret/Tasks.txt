@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print YES if a year is leap year, else NO.
+Input: One integer year
+Expected output: YES or NO
+
+Task 1
+Scenario: You are given an array. Print the length of the longest block of equal numbers.
+Input: n, then n integers
+Expected output: One integer
+
+Task 2
+Scenario: You are given n integers. Find the smallest positive value that cannot be formed as a sum of some subset of numbers.
+Input: n, then n positive integers
+Expected output: One integer

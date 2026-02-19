@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the sum of all odd numbers in an array.
+Input: n, then n integers
+Expected output: One integer sum
+
+Task 1
+Scenario: You are given a grid of digits 0 to 9. Find the maximum sum path from top-left to bottom-right moving only right or down.
+Input: r c, then r lines of digits without spaces
+Expected output: One integer max sum
+
+Task 2
+Scenario: Given a list, print the shortest subarray length whose sum is at least S. If none, print 0.
+Input: n S, then n positive integers
+Expected output: One integer

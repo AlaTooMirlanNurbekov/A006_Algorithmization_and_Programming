@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the number of punctuation characters in a line. Consider . , ! ? : ;
+Input: One line string
+Expected output: One integer
+
+Task 1
+Scenario: Given a string, reverse only the letters, keep other characters in place. Example a-bC-d becomes d-Cb-a.
+Input: One line string
+Expected output: Transformed string
+
+Task 2
+Scenario: You are given an integer n. Print the number of trailing zeros in n factorial.
+Input: One integer n
+Expected output: Number of trailing zer

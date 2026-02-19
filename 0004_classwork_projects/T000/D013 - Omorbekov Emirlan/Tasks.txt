@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the largest digit in a number.
+Input: One integer n
+Expected output: One digit
+
+Task 1
+Scenario: A student solved problems with IDs. Print how many unique IDs exist.
+Input: n, then n integers
+Expected output: Unique count
+
+Task 2
+Scenario: You are given n books with pages. You must split into k consecutive groups. Print the minimum possible maximum pages in any group.
+Input: n k, then n integers
+Expected output: One integer

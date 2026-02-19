@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the middle digit of a 3-digit number.
+Input: One integer n (100 to 999)
+Expected output: One integer middle digit
+
+Task 1
+Scenario: You are given a list of student scores. Print the score closest to 50. If tie, print the smaller score.
+Input: n, then n integers
+Expected output: One integer
+
+Task 2
+Scenario: You are given a string and must print the longest substring without repeating characters. If many, print the first.
+Input: One string
+Expected output: The substring

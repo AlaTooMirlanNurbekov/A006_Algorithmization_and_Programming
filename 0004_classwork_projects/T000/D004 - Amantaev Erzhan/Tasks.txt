@@ -1,0 +1,14 @@
+Task 0
+Scenario: Convert an integer to binary without leading zeros.
+Input: One integer n
+Expected output: Binary representation
+
+Task 1
+Scenario: You are given a list. Print the number of times the sequence changes direction (up to down or down to up).
+Input: n, then n integers
+Expected output: One integer turns count
+
+Task 2
+Scenario: Given two strings, print the minimum number of deletions needed to make them equal.
+Input: Two lines strings
+Expected output: One integer

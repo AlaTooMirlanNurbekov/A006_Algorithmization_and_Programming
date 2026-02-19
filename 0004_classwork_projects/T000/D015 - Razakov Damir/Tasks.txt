@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the sum of digits of a positive integer.
+Input: One integer n
+Expected output: One integer sum of digits
+
+Task 1
+Scenario: You are given start time h m and duration d minutes. Print the end time in 24-hour format.
+Input: h m d
+Expected output: Two integers newH newM
+
+Task 2
+Scenario: You are given a grid r x c of characters . and #. Count how many # cells have at least one # neighbor up/down/left/right.
+Input: r c, then r lines
+Expected output: One integer

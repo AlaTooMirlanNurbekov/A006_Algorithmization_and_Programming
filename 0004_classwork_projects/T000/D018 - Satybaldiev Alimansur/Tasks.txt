@@ -1,0 +1,14 @@
+Task 0
+Scenario: Given a month number (1 to 12), print the season: WINTER, SPRING, SUMMER, AUTUMN.
+Input: One integer m
+Expected output: One word season
+
+Task 1
+Scenario: You are given a sentence. Print how many digits appear in it.
+Input: One line string
+Expected output: One integer digit count
+
+Task 2
+Scenario: You are given a list of integers. Find the smallest pair sum of two different elements.
+Input: n, then n integers
+Expected output: One integer minimal possible sum

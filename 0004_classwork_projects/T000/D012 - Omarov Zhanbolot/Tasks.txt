@@ -1,0 +1,14 @@
+Task 0
+Scenario: Read an integer n. Print the next prime number greater than n.
+Input: One integer n
+Expected output: Next prime
+
+Task 1
+Scenario: Given n prices, find the best profit from buying once and selling later. If profit is negative print 0.
+Input: n, then n integers
+Expected output: One integer max profit
+
+Task 2
+Scenario: You are given a matrix r x c of integers. Print the coordinates of the maximum element. If many, print the first by row then column.
+Input: r c, then matrix
+Expected output: Two integers row col using 0-based indexing

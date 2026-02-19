@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print YES if a number is in range [1,100], else NO.
+Input: One integer x
+Expected output: YES or NO
+
+Task 1
+Scenario: You have a list of daily profits. Find the maximum sum of any consecutive k days.
+Input: n k, then n integers
+Expected output: One integer maximum window sum
+
+Task 2
+Scenario: You are given a chessboard coordinate like e2 and a coordinate e4. Print the minimum rook moves to go from first to second.
+Input: Two strings positions
+Expected output: 0, 1, or 2

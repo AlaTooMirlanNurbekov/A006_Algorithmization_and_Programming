@@ -1,0 +1,14 @@
+Task 0
+Scenario: You receive a student’s first and last name. Print the initials in format A.A.
+Input: Two strings first last
+Expected output: Two capital letters with dots, example A.A.
+
+Task 1
+Scenario: A store prints a receipt. You are given price and paid amount. Print the change, or NOT ENOUGH if paid is smaller.
+Input: Two integers price paid
+Expected output: Change as integer or NOT ENOUGH
+
+Task 2
+Scenario: You are given a list of daily temperatures. Print the longest streak of strictly increasing days.
+Input: Integer n, then n integers
+Expected output: One integer, length of longest increasing consecutive streak

@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the count of letters that are uppercase in a string.
+Input: One line string
+Expected output: One integer
+
+Task 1
+Scenario: You are given n and then n integers. Print YES if the array is a rotation of a non-decreasing sorted array, else NO.
+Input: n, then n integers
+Expected output: YES or NO
+
+Task 2
+Scenario: You are given a list. Find the length of the longest alternating parity subsequence where consecutive chosen numbers alternate even/odd, order must be kept.
+Input: n, then n integers
+Expected output: One integer length

@@ -1,0 +1,14 @@
+Task 0
+Scenario: Read a string and print it with all spaces removed.
+Input: One line string
+Expected output: String without spaces
+
+Task 1
+Scenario: You are given n integers. Print the smallest missing number from 0 to n.
+Input: n, then n integers (each in range 0..n)
+Expected output: Missing number
+
+Task 2
+Scenario: You are given r and c and a maze grid with S start, E end, . open, # wall. Print YES if a path exists using 4-direction moves, else NO.
+Input: r c, then r lines
+Expected output: YES or NO

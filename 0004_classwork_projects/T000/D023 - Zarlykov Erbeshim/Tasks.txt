@@ -1,0 +1,14 @@
+Task 0
+Scenario: You are given two fractions a/b and c/d. Print the result of their addition in simplified form p/q.
+Input: a b c d integers
+Expected output: p/q simplified
+
+Task 1
+Scenario: A teacher needs to split n students into groups of size k. Print how many full groups and how many students left.
+Input: n k
+Expected output: Two integers groups leftover
+
+Task 2
+Scenario: You are given an array. Print YES if it contains a strictly increasing subsequence of length 3 (not necessarily consecutive), else NO.
+Input: n, then n integers
+Expected output: YES or NO

@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print YES if the string contains only letters, else NO.
+Input: One line string
+Expected output: YES or NO
+
+Task 1
+Scenario: A phone battery starts at 100. You get n actions, each changes battery by value (can be negative). Battery must stay between 0 and 100. If it ever goes outside, print INVALID, else print final battery.
+Input: n, then n integers
+Expected output: INVALID or final integer 0..100
+
+Task 2
+Scenario: You are given two sorted arrays. Print the median of all numbers combined.
+Input: n m, then n ints, then m ints
+Expected output: One number median (if even count, average as decim

@@ -1,0 +1,14 @@
+Task 0
+Scenario: Print the smallest of three numbers.
+Input: Three integers
+Expected output: One integer minimum
+
+Task 1
+Scenario: You are given a number n. Print all divisors of n in increasing order.
+Input: One integer n
+Expected output: Divisors separated by spaces
+
+Task 2
+Scenario: A bus has capacity c. You get n stops, each stop has in out. People exit first, then enter. If capacity is exceeded at any stop print OVERFLOW, otherwise print OK.
+Input: c n then n lines in out
+Expected output: OVERFLOW or OK
